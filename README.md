@@ -1,4 +1,4 @@
-jajajaja no vales verga mira # Hola, soy Fabian Lugo 👋
+# Hola, soy Fabian Lugo 👋
 ### Desarrollador de Software Full Stack en formación @ Riwi 🚀
 
 Soy un apasionado por la tecnología. Tengo conocimientos sólidos tanto en Frontend como en Backend, manejando bases de datos complejas y despliegue en la nube.
